@@ -25,7 +25,7 @@ setup(
     long_description=README,
     author='Bernhard Janetzki',
     author_email='boerni@gmail.com',
-    url='https://github.com/version2/django-js-reverse',
+    url='https://github.com/francesconistri/django-js-reverse',
     download_url='http://pypi.python.org/pypi/django-js-reverse/',
     packages=find_packages(),
     package_data={
@@ -34,6 +34,6 @@ setup(
         ]
     },
     install_requires=[
-        'Django >= 1.4',
+        'Django >= 1.3',
     ]
 )
