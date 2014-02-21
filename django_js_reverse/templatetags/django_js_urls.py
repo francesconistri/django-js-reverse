@@ -1,6 +1,6 @@
 from django.template import Library
 
-from django_js_urls.views import get_template_context
+from django_js_reverse.views import get_template_context
 
 register = Library()
 
