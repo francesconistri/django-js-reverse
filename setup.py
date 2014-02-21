@@ -18,7 +18,6 @@ setup(
     version=version,
     classifiers=[
         'Programming Language :: Python',
-        'Programming Language :: Python :: 3'
     ],
     license='MIT',
     description='Javascript url handling for Django that doesn\'t hurt.',
@@ -26,7 +25,6 @@ setup(
     author='Bernhard Janetzki',
     author_email='boerni@gmail.com',
     url='https://github.com/francesconistri/django-js-reverse',
-    download_url='http://pypi.python.org/pypi/django-js-reverse/',
     packages=find_packages(),
     package_data={
         'django_js_reverse': [
